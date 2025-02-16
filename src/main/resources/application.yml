@@ -52,7 +52,7 @@ spring:
         remote_workers:
           find_my_office: debug
 
-# 업로드 이미지 저장 위치
+# 업로드 이미지 저장 위치(c드라이브)
 file:
   upload:
     location: ${user.home}/find-my-office/uploads/
